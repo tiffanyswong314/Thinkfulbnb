@@ -1,6 +1,6 @@
-# Thinkfulbnb
+# Assessment: Thinkfulbnb
 
-Thinkfulbnb is a vacation rental website that allows people to rent out their homes to people who are seeking short-term accommodations in that locale. Thinkfulbnb hosts rent out different kinds of properties, including single rooms, apartments, and unique living spaces such as yachts, houseboats, yurts, tiny houses, and even renovated medieval castles.
+>Thinkfulbnb is a vacation rental website that allows people to rent out their homes to people who are seeking short-term accommodations in that locale. Thinkfulbnb hosts rent out different kinds of properties, including single rooms, apartments, and unique living spaces such as yachts, houseboats, yurts, tiny houses, and even renovated medieval castles.
 
 For this assignment, you will implement Thinkfulbnb's landing page in HTML & CSS.
 
@@ -23,12 +23,6 @@ The UX designer provided you with the following user interface mockups:
 | `images/`    | A folder containing all the images used for the design.                 |
 | `index.html` | The starter HTML file. You will need to add your solution to this file. |
 | `style.css`  | The starter css file. You will need to add your solution to this file.  |
-
-You're encouraged to spend some time studying the provided files.
-
-### Setup
-
-Use VSCode Live Server to launch the `index.html` page in your browser.
 
 ### Tasks
 
@@ -108,6 +102,10 @@ Within the media query, write CSS to create the following designs for desktop:
 ![About desktop](./images/about-desktop.png)
 
 - The "Ideas" images should be displayed in a 2 by 2 grid (see the desktop design shared above).
+
+- The items in the "Want to Become a Thinkful Host?" section should be horizontally aligned. The paragraph content should be vertically centered and be as wide as each image item, like this:
+
+![Host desktop](./images/host-desktop.png)
 
 - The items in the "Want to Become a Thinkful Host?" section should be horizontally aligned. The paragraph content should be vertically centered and be as wide as each image item, like this:
 
